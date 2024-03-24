@@ -1,0 +1,13 @@
+{
+  "name": "Module.17-Testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Aziz <Fabolouse228@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
