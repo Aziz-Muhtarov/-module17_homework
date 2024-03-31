@@ -10,7 +10,7 @@
   "devDependencies": {
     "jest": "^29.7.0"
   },
-    "scripts": {
+  "scripts": {
       "test": "jest"
     }
 }
